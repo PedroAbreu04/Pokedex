@@ -19,6 +19,7 @@ Link: https://pedroabreu04.github.io/Pokedex-com-API/
 ### Como usar:
 <ol>
   <li>Acesse o link: https://pedroabreu04.github.io/Pokedex-com-API/</li>
+  <li>Pesquise pelo nome ou número do Pokemon desejado</li>
 </ol>
 
 
